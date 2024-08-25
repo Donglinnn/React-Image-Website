@@ -5,7 +5,7 @@
 在此專案中，我練習了使用 Axios 套件來抓取 Pexel.com 的 API 作為圖片的顯示來源。<br/>
 <p>
 
-<h2>Demo:</h2>
+## Demo:
 
 一進去首頁，畫面會顯示從當下 Pexels.com 的 API 傳送的精選圖片。
 
@@ -23,7 +23,7 @@
 
 ![按下More Pictures按鈕後](./demo-images/after-pressing-more.png)
 
-<h2>學習到的技術：</h2>
+## 學習到的技術：
 
 <ul>
     <li>如何開啟React專案</li>
